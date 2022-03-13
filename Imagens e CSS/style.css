@@ -1,0 +1,50 @@
+html{
+    background-color: rgb(221, 219, 219);
+}
+header{
+    width: 100%;
+    height: 200px;
+    background: url('images.png')center;
+    background-repeat: no-repeat;
+
+}
+#principal{
+    width: 100%;
+    height: 600px;
+    background: url('olhar.jpg')100%;
+    background-repeat: no-repeat;
+}
+#top-categorias{
+    width: 100%;
+    height: 100px;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+#cat1{
+    width: 35%;
+    height: 340px;
+    background: url('casamento.jpg')center;
+}
+#cat2{
+    width: 35%;
+    height: 340px;
+    margin-left: 35%;
+    margin-top: -340px;
+    background: url('debutante.jpeg')center;
+}
+#cat3{
+    width: 30%;
+    height: 340px;
+    margin-left: 70%;
+    margin-top: -340px;
+    background: url('formatura.jpg')center;
+    background-repeat: no-repeat;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 5px;
+}
